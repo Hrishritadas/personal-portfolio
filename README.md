@@ -10,3 +10,11 @@ Communication
 ## My Interests
 Learning new technologies
 Reading
+## Education
+B.Sc.Forensic Science
+## Project Objective
+To create a simple personal portfolio using Github.
+## Future Goals
+Improve my technical skills
+Learn Web Development
+Gain practical knowledge
