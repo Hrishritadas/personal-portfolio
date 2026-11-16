@@ -18,3 +18,7 @@ To create a simple personal portfolio using Github.
 Improve my technical skills
 Learn Web Development
 Gain practical knowledge
+## Contact Information
+Email: hrishitad7@gmail.com
+## Conclusion
+This portfolio demonstrates the use of GitHub for managing and updating project files.
